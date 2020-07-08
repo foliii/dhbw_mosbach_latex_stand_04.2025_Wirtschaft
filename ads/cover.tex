@@ -37,15 +37,17 @@
 	\begin{spacing}{1.2}
 	\begin{tabbing}
 		mmmmmmmmmmmmmmmmmmmmmmmmmm             \= \kill
-		\textbf{\documentPeriodPhrase}       \>  \documentPeriod\\
+
+		% uncomment next line for periodPhase
+		% \textbf{\documentPeriodPhrase}       \>  \documentPeriod\\
 		\textbf{\matriculationNumberPhrase, \coursePhrase}  \>  \matriculationNumber, \course\\
 
-		% no company for the semester paper and special documents
-		\ifDocType{T2\_3100}{}{%
-			\ifSpecialDocument{}{%
+		
+		% \ifDocType{T2\_3100}{}{%
+			% \ifSpecialDocument{}{%
 				\textbf{\companyPhrase}                  \>  \companyName, \companyLocation\\
-			}%
-		}%
+			% }%
+		% }%
 		\textbf{\tutorPhrase}               \>  \tutor\\
 
 		% evaluator only for bachelor thesis
