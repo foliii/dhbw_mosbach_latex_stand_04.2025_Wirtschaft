@@ -1,4 +1,7 @@
 %!TEX root = ./main.tex
+% arara: pdflatex
+% arara: biber if changed(toFile('bibliographie.bib')) || changed('bcf')
+% arara: pdflatex while changed('bbl') || found('log', 'Please rerun')
 
 %%**************************************************************
 %%

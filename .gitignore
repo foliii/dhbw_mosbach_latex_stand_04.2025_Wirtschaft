@@ -38,6 +38,7 @@ main.pdf
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+arara.yaml
 
 ## Auxiliary and intermediate files from other packages:
 # algorithms
