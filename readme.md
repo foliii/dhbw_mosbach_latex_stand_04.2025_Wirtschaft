@@ -1,7 +1,7 @@
 # DHBW Mosbach LaTeX Template
 
-Fork von [DHBW Heidenheim LaTeX Template](https://github.com/schnes4/dhbw-heidenheim-latex-template) -> das der Ursprung
-Dies hab ich genommen und Überarbeitet: https://github.com/Siphalor/dhbw-mosbach-latex-template 
+Fork von [DHBW Heidenheim LaTeX Template](https://github.com/schnes4/dhbw-heidenheim-latex-template). 
+Die Version von Heidenheim ist der Ursprung, von dem die Version aus Mosbach stammt die ich anschließend überarbeitet habe. Hier findet ihr diese: https://github.com/Siphalor/dhbw-mosbach-latex-template 
 
 
 
