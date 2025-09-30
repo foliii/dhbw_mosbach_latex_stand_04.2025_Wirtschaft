@@ -1,6 +1,9 @@
 # DHBW Mosbach LaTeX Template
 
-Fork von [DHBW Heidenheim LaTeX Template](https://github.com/schnes4/dhbw-heidenheim-latex-template)
+Fork von [DHBW Heidenheim LaTeX Template](https://github.com/schnes4/dhbw-heidenheim-latex-template) -> das der Ursprung
+Dies hab ich genommen und Überarbeitet: https://github.com/Siphalor/dhbw-mosbach-latex-template 
+
+
 
 **Inhalt:**
 * [Templatestruktur](#templatestruktur)
@@ -175,7 +178,7 @@ Die Archivdatei wurde zusammen mit der Online-Version dieser Ausarbeitung auf di
 \end{tabbing}
 ```
 
-# Contributors
+# Original Contributors
 
 * Tobias Dreher
 * Yves Fischer
